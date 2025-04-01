@@ -1,0 +1,10 @@
+tensorflow
+numpy
+scipy
+matplotlib
+seaborn
+h5py
+librosa
+scikit-learn
+PyQt5
+pyadi-iio
